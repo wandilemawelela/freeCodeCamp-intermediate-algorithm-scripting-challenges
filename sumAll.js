@@ -14,7 +14,7 @@ function sumAll(arr) {
     let minimum = Math.min(arr[0], arr[1]);
     let sum = 0;
     for (let i = minimum; i <= maximum; i++) {
-        sumBetween += i;
+        sum += i;
     }
     return sum;
 }
