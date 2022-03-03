@@ -17,7 +17,7 @@ Solution
 ========
 */
 
-onst valuePairs = {
+const valuePairs = {
     A: 'T',
     T: 'A',
     C: 'G',
